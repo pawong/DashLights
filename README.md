@@ -14,7 +14,7 @@ DashLights allows you to monitor your disk and CPU activity from a non obtrusive
 ![](Screenshot.png)
 
 ## Versions
->[2.3.4](builds/DashLights_v2.3.4/DashLights.zip)
+>[2.1.1](builds/DashLights_v2.1.1/DashLights.zip)
 >    Changes:
 >    - Old release for quick start.
 
