@@ -14,7 +14,7 @@ DashLights allows you to monitor your disk and CPU activity from a non obtrusive
 ![](Screenshot.png)
 
 ## Versions
->[2.3.4](builds/VistaClock_v2.3.4/VistaClock.zip)
+>[2.3.4](builds/DashLights_v2.3.4/DashLights.zip)
 >    Changes:
 >    - Old release for quick start.
 
@@ -23,11 +23,11 @@ DashLights allows you to monitor your disk and CPU activity from a non obtrusive
 
 **Bugs and requests?**  Please use the project's [issue tracker].
 
-[![Issues](http://img.shields.io/github/issues/pawong/VistaClock.svg?style=plastic&logo=github)](https://github.com/pawong/VistaClock/issues)
+[![Issues](http://img.shields.io/github/issues/pawong/DashLights.svg?style=plastic&logo=github)](https://github.com/pawong/DashLights/issues)
 
 **Want to contribute?**  Please fork this repository and open a pull request with your new changes.
 
-[![Pull requests](http://img.shields.io/github/issues-pr/pawong/VistaClock.svg?maxAge=3600&style=plastic&logo=github)](https://github.com/pawong/VistaClock/pulls)
+[![Pull requests](http://img.shields.io/github/issues-pr/pawong/DashLights.svg?maxAge=3600&style=plastic&logo=github)](https://github.com/pawong/DashLights/pulls)
 
 **Do you like it?**  Support the project by starring the repository or [tweet] about it.
 
