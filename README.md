@@ -11,7 +11,7 @@ DashLights allows you to monitor your disk and CPU activity from a non obtrusive
 - Labeled lights.
 
 ## Screenshots
-
+![](Screenshot1.png)
 
 ## Versions
 >[2.3.4](builds/VistaClock_v2.3.4/VistaClock.zip)
